@@ -1,0 +1,5 @@
+runtime: nodejs18
+service: default
+
+env_variables:
+  port: 8080
